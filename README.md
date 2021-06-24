@@ -1,0 +1,2 @@
+# Auto-Vocaloid
+vocaloid helper
